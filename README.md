@@ -69,3 +69,24 @@ Abhilash H
 ---
 **Project:** Amazon India Sales Analysis Dashboard  
 **Domain:** Data Analytics
+
+
+
+
+
+
+---
+
+## Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](Executive_Overview.png)
+
+### 2. Sales Breakdown
+![Sales Breakdown](Sales_Breakdown.png)
+
+### 3. Business Insights
+![Business Insights](Business_Insights.png)
+
+### 4. Payment & Fulfillment Analysis
+![Payment & Fulfillment Analysis](Payment_Fulfillment_Analysis.png)
